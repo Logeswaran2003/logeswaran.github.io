@@ -20,6 +20,7 @@ const illustration = {
 };
 
 const greeting = {
+  homepage: "https://logeswaran.github.io",
   username: "Logeswaran Kodivel",
   title: "Hi all, I'm Logie",
   subTitle: emoji(
